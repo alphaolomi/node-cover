@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "expect.js": "0.3.1",
-    "mocha": "6.2.2",
+    "mocha": "7.0.0",
     "istanbul": "0.4.5",
     "codecov": "3.6.1"
   }

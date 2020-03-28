@@ -1,4 +1,9 @@
 {
+  
+  "name": "node-cover",
+  "description": "always check for code coverage in your projects",
+  "version": "1.0.0",
+  "main": "lib/script.js",
   "scripts": {
     "test": "istanbul cover node_modules/mocha/bin/_mocha && codecov -F istanbul_mocha",
     "test-local": "istanbul cover node_modules/mocha/bin/_mocha"
@@ -8,5 +13,20 @@
     "mocha": "7.1.1",
     "istanbul": "0.4.5",
     "codecov": "3.6.5"
-  }
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphaolomi/node-cover.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphaolomi/node-cover/issues"
+  },
+  "homepage": "https://github.com/alphaolomi/node-cover#readme"
 }

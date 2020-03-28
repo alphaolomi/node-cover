@@ -23,8 +23,8 @@
     "url": "git+https://github.com/alphaolomi/node-cover.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Alpha Olomi <alphaolomi@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/alphaolomi/node-cover/issues"
   },

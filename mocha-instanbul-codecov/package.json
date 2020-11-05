@@ -1,5 +1,5 @@
 {
-  "name": "node-cover",
+  "name": "istanbul_mocha",
   "description": "always check for code coverage in your projects",
   "version": "1.0.0",
   "main": "lib/script.js",
@@ -16,16 +16,5 @@
   "directories": {
     "lib": "lib",
     "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/alphaolomi/node-cover.git"
-  },
-  "keywords": [],
-  "author": "Alpha Olomi <alphaolomi@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/alphaolomi/node-cover/issues"
-  },
-  "homepage": "https://github.com/alphaolomi/node-cover#readme"
+  }, 
 }
